@@ -1304,6 +1304,7 @@ h1.website{
   font-size: 20px;
 
 }
-h1 .website a{
+h1.website a{
   color: #de0000;
+  margin-left: 10px;
 }
