@@ -283,6 +283,11 @@ header h1 {
   margin: 0;
   padding: 0;
   line-height: 40px;
+  display: none;
+}
+
+header h1.title {
+  display: block;
 }
 header h1 .bold {
   font-weight: 600;
