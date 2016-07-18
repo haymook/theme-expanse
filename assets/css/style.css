@@ -1,7 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,300,500,700,300italic,400italic,500italic);
 
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,200italic,300,300italic,400italic,600,600italic,700,700italic,900,900italic);
-
 @import url(http://postach.io/static/themes/_assets/symbolset/ss-pika.css);
 /*---------------------------------------------------
     LESS Elements 0.9.1
@@ -11,37 +9,6 @@
     MODIFIED BY: Brandon Brown
   ---------------------------------------------------*/
 
-
-@font-face {
-  font-family: "Akkurat";
-  src: url("http://drakewell.us/fonts/Akkurat.otf");
-  font-weight: normal;
-  font-style: normal; }
-@font-face {
-  font-family: "Akkurat-Italic";
-  src: url("http://drakewell.us/fonts/Akkurat-Italic.otf");
-  font-weight: normal;
-  font-style: normal; }
-@font-face {
-  font-family: "Akkurat-Light";
-  src: url("http://drakewell.us/fonts/Akkurat-Light.otf");
-  font-weight: normal;
-  font-style: normal; }
-@font-face {
-  font-family: "Akkurat-LightItalic";
-  src: url("http://drakewell.us/fonts/Akkurat-LightItalic.otf");
-  font-weight: normal;
-  font-style: normal; }
-@font-face {
-  font-family: "Akkurat-Bold";
-  src: url("http://drakewell.us/fonts/Akkurat-Bold.otf");
-  font-weight: normal;
-  font-style: normal; }
-@font-face {
-  font-family: "Akkurat-BoldItalic";
-  src: url("http://drakewell.us/fonts/Akkurat-BoldItalic.otf");
-  font-weight: normal;
-  font-style: normal; }
 
 
 * html .clearfix {
@@ -303,14 +270,14 @@ header img.rainbow {
   height: 0px;
 }
 header h1 {
-  font-family: 'Source Sans Pro';
-  font-size: 1.75rem;
+  font-family: 'Roboto';
+  font-size: 40px;
   color: #000000;
   float: left;
-  width: 50%;
+  width: 38%;
   margin: 0;
   padding: 0;
-  line-height: 1.75rem;
+  line-height: 40px;
 }
 header h1 .bold {
   font-weight: 600;
