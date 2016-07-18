@@ -99,6 +99,7 @@ a:hover {
 body {
   padding: 0;
   margin: 0;
+  background: #f8f8f8;
 }
 .wrapper {
   position: relative;
@@ -269,7 +270,7 @@ header h1 {
   font-weight: 700;
   text-transform: uppercase;
   font-size: 1.75rem;
-  color: #ffffff;
+  color: #000000;
   float: left;
   width: 50%;
   margin: 0;
@@ -277,7 +278,7 @@ header h1 {
   line-height: 1.75rem;
 }
 header h1 a {
-  color: #ffffff;
+  color: #000000;
 }
 header h1 a:hover {
   color: #de0000;
@@ -450,7 +451,7 @@ body.short-header header {
   display: block;
   width: 80px;
   height: 80px;
-  border: 5px solid #ffffff;
+  border: 3px solid #ffffff;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
@@ -464,6 +465,7 @@ body.short-header header {
   -moz-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
+  box-shadow: 0px 0px 20px #000000;
 }
 .bio .user-avatar-hover {
   z-index: 10000;
