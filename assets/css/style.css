@@ -131,7 +131,6 @@ body {
 .container.wide {
   width: 80%;
   max-width: 1280px;
-  display: none;
 }
 .container:after {
   visibility: hidden;
@@ -270,10 +269,6 @@ header img.rainbow {
   width: 100%;
   height: 0px;
 }
-header img.logo {
-  width: 175px;
-  height: 74px;
-}
 header h1 {
   font-family: 'Roboto';
   font-size: 40px;
@@ -283,11 +278,6 @@ header h1 {
   margin: 0;
   padding: 0;
   line-height: 40px;
-  display: none;
-}
-
-header h1.title {
-  display: block;
 }
 header h1 .bold {
   font-weight: 600;
@@ -1325,6 +1315,3 @@ h1.website a{
   color: #de0000;
   margin-left: 10px;
 }
-
-
-
