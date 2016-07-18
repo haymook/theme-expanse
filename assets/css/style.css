@@ -1315,3 +1315,10 @@ h1.website a{
   color: #de0000;
   margin-left: 10px;
 }
+
+
+img.logo {
+  width: 175px;
+  height: 74px;
+  text-align: center;
+}
