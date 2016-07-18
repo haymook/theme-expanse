@@ -7,6 +7,40 @@
     More info at: http://lesselements.com
     MODIFIED BY: Brandon Brown
   ---------------------------------------------------*/
+
+
+@font-face {
+  font-family: "Akkurat";
+  src: url("/fonts/Akkurat.otf");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: "Akkurat-Italic";
+  src: url("/fonts/Akkurat-Italic.otf");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: "Akkurat-Light";
+  src: url("/fonts/Akkurat-Light.otf");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: "Akkurat-LightItalic";
+  src: url("/fonts/Akkurat-LightItalic.otf");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: "Akkurat-Bold";
+  src: url("/fonts/Akkurat-Bold.otf");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: "Akkurat-BoldItalic";
+  src: url("/fonts/Akkurat-BoldItalic.otf");
+  font-weight: normal;
+  font-style: normal; }
+
+
 * html .clearfix {
   zoom: 1;
 }
