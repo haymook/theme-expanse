@@ -1205,6 +1205,7 @@ h3.tag-header {
   }
   header .container.wide {
     padding: 50px;
+    display: none;
   }
 }
 /* Less than 730px width */
